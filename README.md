@@ -1,3 +1,4 @@
 # Example of README.md
-##*Clustering exam1*
+## *Clustering exam1*
 **Github repository**
+👍 
