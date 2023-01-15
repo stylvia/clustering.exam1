@@ -1,1 +1,3 @@
-# clustering.exam1
+# Example of README.md
+##*Clustering exam1*
+**Github repository**
